@@ -7,7 +7,7 @@ const textConfig = {
   text5: "Không cho chọn đâu, nhấn cái kia kìa !",
   text7: "Em muốn nhắn gì cho anh hông ???",
   text8: "Gửi cho anh Sang di <3",
-  text9: "Anh Sang đẹp try vlllll, em thích anh vvvv",
+  //text9: "Anh Sang đẹp try vlllll, em thích anh vvvv",
   text10: "Ngày VALENTINE Chúc em luôn xinh đẹp, tích cực như vậy và thành công hơn nữa nha !",
   text11:
     "Nắm tay anh nè :DDDDDDDD",
@@ -86,9 +86,9 @@ $(document).ready(function () {
   });
 
   // generate text in input
-  function textGenerate() {
+  /*function textGenerate() {
     var n = "";
-    var text = " " + textConfig.text9;
+    var text = " " //+ textConfig.text9//;
     var a = Array.from(text);
     var textVal = $("#txtReason").val() ? $("#txtReason").val() : "";
     var count = textVal.length;
@@ -103,7 +103,7 @@ $(document).ready(function () {
       }
     }
     $("#txtReason").val(n);
-  }
+  }*/
 
   // show popup
   $("#yes").click(function () {
