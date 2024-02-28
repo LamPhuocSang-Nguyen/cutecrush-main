@@ -1,18 +1,18 @@
 const textConfig = {
-  text1: "Hello Xuka !",
-  text2: "Anh mới chuẩn bị cái này thú vị cho ka nè",
+  text1: "Hello Mi!",
+  text2: "Anh mới chuẩn bị cái này thú vị cho em nè",
   text3: "Bx yêu Ox có phải không nào ._.",
-  text4: "Hồ chí Minh mình gặp nhau nha :v",
+  text4: "Trông trẻ trâu không?",
   text6: "Nhấn nút này điiii",
   text5: "Không cho chọn đâu, nhấn cái kia kìa !",
   text7: "Em muốn nhắn gì cho anh hông ???",
   text8: "Gửi cho anh Sang di <3",
   //text9: "Anh Sang đẹp try vlllll, em thích anh vvvv",
-  text10: "Ngày VALENTINE Chúc em luôn xinh đẹp, tích cực như vậy và thành công hơn nữa nha !",
+  text10: "Chúc em ngủ ngon <3",
   text11:
     "Nắm tay anh nè :DDDDDDDD",
   text12: "Okii lunn <3",
-  text13: "Hello Xuka !",
+  text13: "Hello Mi",
 };
 
 $(document).ready(function () {
